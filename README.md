@@ -2,7 +2,7 @@
 - 👀 I’m interested in back-end development, micropython, neural networks
 - 🌱 I’m currently learning aiohttp
 - 💞️ I’m looking to collaborate on interesting project with microcontrollers/neural networks/asynchronous APIs
-- 📫 How to reach me https://t.me/rrretry
+- 📫 How to reach me
 
 <!---
 rrr3try/rrr3try is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
